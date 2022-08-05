@@ -1,0 +1,13 @@
+{
+  "status" : true,
+  "data" : {
+    "code" : "GYRE96",
+    "id" : 1,
+    "email" : "gyre@gmail.com",
+    "number" : "9898989898",
+    "name" : "Gyre",
+    "mainteance_message" : null
+  },
+  "message" : "Client Maintenance.",
+  "statusCode" : 200
+}
